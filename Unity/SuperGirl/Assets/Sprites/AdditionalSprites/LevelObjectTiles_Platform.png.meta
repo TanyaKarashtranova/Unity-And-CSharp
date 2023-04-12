@@ -1,0 +1,5135 @@
+fileFormatVersion: 2
+guid: 5eca1dec087ddae4c899681dcdb314b3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 647
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: -15}
+        - {x: -13, y: -5}
+        - {x: -9, y: 5}
+        - {x: 6, y: 14}
+        - {x: 15, y: 14}
+        - {x: 15, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cb15edc2c2de740b6381322aaf1819
+      internalID: 253019889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 647
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de75d3efaa1d5194abe9279dff970b1c
+      internalID: 1932779174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 647
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aeae49a406d5fb45800ad08ca3d95c0
+      internalID: 1768001001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 647
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32af4e449333865468ca4d4a73dd812e
+      internalID: -1959850921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 647
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f0c25068168bb40a24578c71851eba
+      internalID: -1148544897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 647
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1123c88cd0619944194ec3fb49a70911
+      internalID: 2116073625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 647
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a23fe3dd0c2d947bb134f985cdb4e2
+      internalID: 648789518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 647
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ef404d2bb2848438f139477ae19124
+      internalID: 1349566748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_8
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 647
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d44fdd9960307247b95a69b4da3329a
+      internalID: -784470594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_9
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 647
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b46fdfd638bed8449c985990aca1b9f
+      internalID: -603563357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_10
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 647
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fb88ebce6483a4fa8f0258d7443eaf
+      internalID: 1040194907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fbdce4ac80fee4796c1f40ee3c3ef0
+      internalID: -1598728398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 616
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5044e2ea5f4ea894cb326f2c003245ea
+      internalID: -1206729160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 616
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7b320c2366dac498e9ae8470f79261
+      internalID: 1018678836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_14
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 616
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66c5239a414e8447a9beb075196f1ad
+      internalID: 1392596890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_15
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 616
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b505ab8a8e3f8439bd6b1579b9f475
+      internalID: -1741829452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_16
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 616
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ffc336b83c8ae45883ece53d039b3f
+      internalID: -1987526865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_17
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 616
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659bc80b90eda7947a4c693df23e57fd
+      internalID: -620697357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_18
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 616
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4317ac5f7c806df41849a6040ae97f41
+      internalID: 675832302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_19
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 616
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18dff368a6d7d44daffdf25f038e48f
+      internalID: 1226871845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_20
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 616
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a8e1f48d2a0a94a97020cabaa0d09d
+      internalID: -36131184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_21
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 616
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ed85bfafa990347971d48efc84f148
+      internalID: -1832722730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 585
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d7e4004bb36bf44b55e960cc1591cf
+      internalID: -1253569709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 585
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c926176c520ae34981c377db9f64350
+      internalID: 345458490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 585
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97175d34dc6c95843aacdd4236a7ef38
+      internalID: 1452535564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_25
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 585
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240bfabcafa7fce408afb86b865a5c17
+      internalID: 109497160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_26
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 585
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8511b37dc935b23448b6886872c0d4a2
+      internalID: -1215401737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_27
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 585
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9037e8e48b6dba040bbf7c071c6542c7
+      internalID: -336669628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_28
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 585
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562df82790c932949a680e4bc6f40ff4
+      internalID: 1241566273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_29
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 585
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d444428c5877034c9216232082ca79c
+      internalID: 446928875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_30
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 585
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4b107d2bc66ee47b0fd4ae1787f2d5
+      internalID: -591163003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_31
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 585
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aec7cc05cd83ce4ba0308d4076d0682
+      internalID: -2064152561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_32
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 585
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d255b0fce1b7e94b8bfacefea8b0bac
+      internalID: -728923025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 554
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e0817da07c28f4283b0eb68558052e
+      internalID: 6654568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_34
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 554
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26788ba2059fb0f48b6547e63c739791
+      internalID: -71147631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_35
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 554
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80302185c6d5cd4d8242004d8f6b7de
+      internalID: -772039649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_36
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 554
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a185a60bc8863fc45a432eb109782348
+      internalID: -408157289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_37
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 554
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7a48fa79281804ca06e0bd93484305
+      internalID: -1440015468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_38
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 554
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfff44d264530724cbf14faaf9e3f63a
+      internalID: -736421030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_39
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 554
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ba17abb0d17214ea42863674c763a9
+      internalID: -750266615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_40
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 554
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed959069c3d2d8b408a10931c8179315
+      internalID: 1273884294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_41
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 554
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d256f33e71cc9340aa93a95ed422d68
+      internalID: -938726796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_42
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 554
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ee6f06e7a68184eb00dbd24692a1f4
+      internalID: -1983741052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_43
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 554
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3ee1afba844a54da0eecffcd3d2e81
+      internalID: -1521359534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 523
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e0487b5e8559c4086cdb954cc474ee
+      internalID: -1787387606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_45
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 523
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54382b18d4028fd488fdc2f0a6f2caab
+      internalID: -451310290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_46
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 523
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ec6b21d3c7528499c2359fcfba881f
+      internalID: -536224891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_47
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 523
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fe57b270dcdfd40a0b92ed37e731f4
+      internalID: -1018203598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_48
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 523
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c5ef4670437e8449bb2bac3b603f53
+      internalID: -829639953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_49
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 523
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34c5f681445d5d44bab7233324dc53a
+      internalID: -1199193500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_50
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 523
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e77e9e2685b524cbd6b881e1a42625
+      internalID: -1136293694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_51
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 523
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f134ef1ace1271349b224129f43735c9
+      internalID: -640787699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_52
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 523
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f0d768d709415428bd62cdbcc95740
+      internalID: 1717509726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_53
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 523
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b7896d226e3644bbcbc36eb320ebc0
+      internalID: -249514291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_54
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 523
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c202dcb62c5cd840b119fc748475fe2
+      internalID: -2119410230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 492
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279cf2fc8798ceb4c8a4cc7a23d44b33
+      internalID: -595710724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_56
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 492
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b1f55e94025d346a76dcedd3d47173
+      internalID: 259954054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_57
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 492
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdaf023ed5f6b24d9f23481fe9c17b0
+      internalID: 422730926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_58
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 492
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9792fc11f8221ff43a4f88769be88009
+      internalID: 1051440564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_59
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 492
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185b9ff67dc343641b6b3be699396e81
+      internalID: 108760670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_60
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 492
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0e36e8071d1c949ad2c0f5d0271fd7
+      internalID: -249212308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_61
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 492
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8470df28d461c4b8262d3b14eacccd
+      internalID: 257400316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_62
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 492
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6423f3560fba84ba52ebab054837d4
+      internalID: -492685625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_63
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 492
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18269ed9b12030449b63a757102fd18f
+      internalID: -2057882374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_64
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 492
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e565b40ee3df38d4eacdd8a1ead7c7ab
+      internalID: 388492304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbca811a62fee04a82a53c188c842f5
+      internalID: -1263765103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_66
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 461
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096f83a4ba58b5c4f934bf405bfcdb31
+      internalID: 1195823509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_67
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 461
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ba12b3ee9ff6f4fa2dd46a702b03b9
+      internalID: -1336672620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_68
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 461
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097319f4aba486b4fafa3b4c5260b2c6
+      internalID: 1117429324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_69
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 461
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b1c161d49e36a4fb60750206ffdead
+      internalID: 1820433557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_70
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 461
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629f78db1d50f724a891d0585094817d
+      internalID: -1618250912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_71
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 461
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5f90450fd11b74daad302290e239dd
+      internalID: -1667463189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_72
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 461
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0f89595a5e9434c96cb9dd7cf4df0e
+      internalID: 1667597034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_73
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 461
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61da00085b4407d48912dcc0973a6be1
+      internalID: 1191290802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_74
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 461
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0994e4f54161f5e4f86828a15a8dd45b
+      internalID: -1742168422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_75
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 461
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658bf060a09d0024d8c3c38b54cc75a7
+      internalID: -1732315664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a5763e9b908564587445568fc46728
+      internalID: -677641369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_77
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 430
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30e4ad68341ce2449fd116568824678
+      internalID: 685157464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_78
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 430
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450f7174c4b220a4aae465da574d75a6
+      internalID: 1098312623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_79
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 430
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd616b011543154b8185f01644cc64f
+      internalID: -305258066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_80
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 430
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ba5b01871073349bcb1c5d21f8fe34
+      internalID: 1053370898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_81
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 430
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def3c6e3cb9eb4d42ba3a1bd807bcd80
+      internalID: 299310383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_82
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 430
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb5d823f0e8aad47ae896ddacec9f07
+      internalID: 2110379898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_83
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 430
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1664b98ce69e549a0a18745470d9b6
+      internalID: -1786311399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_84
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 430
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f49005d28d1d6f4cb596cf2b3c85cbc
+      internalID: 1542436357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_85
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 430
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d17a23308ab294a862925e01330b16
+      internalID: 25875555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_86
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 430
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa5f80515ead504f91877c6e4c528a7
+      internalID: 344283829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41d6789a8048ad4d989d20e23556d0f
+      internalID: -788272081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_88
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 399
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d31cf7b671a8b64b8e04a7e137b8b83
+      internalID: -1414094435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_89
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 399
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e10c83db692d3047828895deeb22242
+      internalID: -1512376337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_90
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 399
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bab8f72ad1e664988585178c6c419d
+      internalID: 1369873418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_91
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 399
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35ae9e21baff1f44b9ee52b75b75380
+      internalID: 1204812685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_92
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 399
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd906f857768534081ed5c67f8fafac
+      internalID: 338862304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_93
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 399
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32899df6f8561c4f81c10f6b2c20f40
+      internalID: -130382951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_94
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 399
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2435f122357694f8d230a849eb756a
+      internalID: 1332359071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_95
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 399
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccabdcf744abd2a4dac300d1768d34ae
+      internalID: -911171466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_96
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 399
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17bf4bbb8352614eaea8dd7cd5c3d74
+      internalID: -1434301069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_97
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 399
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbdfe75c8cc8734eb60c07736db9bef
+      internalID: -558462389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40b11fab396bbb459a59b7c6b60ec2f
+      internalID: 84678394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_99
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 368
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52759619b9ba8f94aa07dda661029802
+      internalID: -1746877650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_100
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 368
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579e32988575fc74fb623569b9f87dfe
+      internalID: -1146844999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_101
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 368
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1c3c5374dba8c4791e597574174d32
+      internalID: 751903708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_102
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 368
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a54f0a9862c8c4680f29e4ae504c83
+      internalID: -1777043361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_103
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 368
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c09edd0de01a374a8dd126894e917a1
+      internalID: -420718332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_104
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 368
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b40f9079409185409a50f493e898868
+      internalID: 505036349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_105
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 368
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317ee75c7029a10448bc8c08081566db
+      internalID: 762148132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_106
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 368
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44694311622aa040bfcb4944fc4abcc
+      internalID: -1734508629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_107
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 368
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deaa5f2f9f62ec948af82fb1a0c227bd
+      internalID: -1565156302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_108
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 368
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68143e19b3999c041aac0e7a947251e4
+      internalID: 1307237721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deea7f08ba7621144a589f6ff231b421
+      internalID: -1844703575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_110
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 337
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1961f2b0e0ba9234c8235819ee2464c7
+      internalID: 267387153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_111
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 337
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1163c44acd9bc2f44850de0796550ccb
+      internalID: -1186852580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_112
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 337
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d207888cbc522f4d875e571f07009db
+      internalID: 910669086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_113
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 337
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7b934fe907c7142897621038e6be12
+      internalID: -669234476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_114
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 337
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9791ae40f1ef63499e4d4c0281a9002
+      internalID: 287884158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_115
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 337
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1e867d9a98d1244b922ba709d9ce49
+      internalID: -1512837153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_116
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 337
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485f7b988692beb438a2f1d2a2349058
+      internalID: -1164204727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_117
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 337
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b6ee61cd2e96d4ba70dbf95e1eb931
+      internalID: -1573488032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_118
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 337
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ea376a4348c3b41b2712a6e41150ba
+      internalID: 1694395402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_119
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 337
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf134e8c62431d4a9f7c12c06a13393
+      internalID: 685137959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d26c76c5a872c498e89d6fb4b70ebb
+      internalID: 704672626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_121
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438e48f59c931a2488965368e7ed778e
+      internalID: 918168947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_122
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd71a48e08b52f64fb4b36035c1d41ef
+      internalID: 9619927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_123
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db529441f26907428831bb40aff8afc
+      internalID: 826475993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_124
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b26d83f8bbcd5b4f9fa434fb13a1c9b
+      internalID: 66374988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_125
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1322396d388f946b35ea503b28ca01
+      internalID: 2066698303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_126
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a5706c90bcaaa44ab661364f5bc34b
+      internalID: -1418839723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_127
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32218ada1b1188844927d4f5ca37b797
+      internalID: -1149591218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_128
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dcb82f6028ba048b107aeb77f973cc
+      internalID: -723781329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_129
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0ee8e7d33dc5e408c35a9fab5d31a1
+      internalID: 913064839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_130
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f678260544c4b4b90043eb2258ac7a
+      internalID: 1059249437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b01c9a7667143e45952b5539835c442
+      internalID: 1027799407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_132
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 275
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003e0b08324d3f54ea4791e9f38b9656
+      internalID: 1270519402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_133
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 275
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41597af264a3a94b9945c570de43e8a
+      internalID: 1858992431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_134
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 275
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7a37da2d80f2c48a66b01b261d7999
+      internalID: 1392068361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_135
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 275
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61d01c7118fd2c41bd9d797aa69492e
+      internalID: 770094066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_136
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 275
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a2d37e500c55a4495967d6a4f22a3b
+      internalID: -2068228524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_137
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 275
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb9c19901be9d142ac06a6be12e371f
+      internalID: 1215983651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_138
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 275
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a3bfcdd1abfb148b4c22aabdc2f83f
+      internalID: -2065039402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_139
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 275
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499f7dd01fab3d143b2eb0a895b3409f
+      internalID: -602375037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_140
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 275
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4093b87902413ef46a9e67a727d469e7
+      internalID: 249526088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_141
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 278
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0117823855b5ef44abbbdea6eacb8c45
+      internalID: 823755921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5d810d80c3697409e95c2007ed7cb5
+      internalID: 1481734028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_143
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc880c725de07104bb3b65b51b425f35
+      internalID: 2031284452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_144
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05ac2ec828d21741b861972eb51ab9c
+      internalID: 136204152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_145
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd760b813168174d9d7f474d3ce7602
+      internalID: -1170843327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_146
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162c383802759de48ac09d06159d8af8
+      internalID: -633354212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_147
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8d84fc77d1c844b9ba1086ee6303c1
+      internalID: 550376272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_148
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d09534865e46a144b73649fa51d222b
+      internalID: 2021636392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_149
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898dc650ba66e024e970dd0b4ff7945b
+      internalID: -893644383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_150
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d736a1257ec6c54287d59cd686c64ef
+      internalID: 1346921243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_151
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 244
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31faffc82a60084cbcf33ff64552d51
+      internalID: 77157008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_152
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 244
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c433300aa9ac2442b324ac369b0d6b6
+      internalID: -1207328235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cafd7e335065ea44bd840ea8b7b625c
+      internalID: 1354289492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_154
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 213
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08454800eb56a7643bd350b865bac5b1
+      internalID: 782968391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_155
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 213
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072c7e812c82c7448b0b37117bd04b2e
+      internalID: -1811121539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_156
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 213
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c87b1ea5802484f90874e44bc9ff32
+      internalID: -510955059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_157
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 213
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b9fbc0e0c1c0a4ab72ba85e3b8e87e
+      internalID: 970104915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_158
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 213
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e8c4baece4eaf4eb6601f4ccbfd215
+      internalID: 702548885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_159
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 213
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cf29e9895e4ba4f8ad9d1a8d22a7ee
+      internalID: 1458359907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_160
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 213
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4504c9c4e2c29c04d8bad1c445bd4226
+      internalID: -504294153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_161
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 213
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c2043b982b79f46a2b95e65c13d7b3
+      internalID: 511554299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_162
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 213
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5765f2e8606284d8d6d65f60c37c9c
+      internalID: 1438463507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_163
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 213
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3953cec1fe174fa47897a58fb449c82c
+      internalID: -319107208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_164
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b77b3dc4b9412f4a9bc222105bc6d7e
+      internalID: 2134090310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_165
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 182
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1422c0180edd9499f7a23ddf4356a2
+      internalID: -828673726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_166
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 182
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f59725edb5733142a5ab025ef76ed49
+      internalID: 1400443288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_167
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 182
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab67699791a9054b861abb03b1a7998
+      internalID: 1737074778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_168
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 182
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a8281d4b14fa74a87278e0981d57ce
+      internalID: -2142640061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_169
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 182
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edab58ff87b4d2d499578deaf6871f08
+      internalID: 887887964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_170
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 182
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33883fee5632ce24789cdaebfeb84167
+      internalID: 433511302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_171
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 182
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e72413609a3fa40a56e5fa86cc5a19
+      internalID: -1706212394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_172
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 182
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c333566c9905fa2408705812c751a99f
+      internalID: -1321174623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_173
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 182
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56ce17a6059284498b572a91849bcba
+      internalID: -1365031843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 151
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4cc04d21728e247b01b9bdaa49dabf
+      internalID: -1360709868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_175
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 151
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f83c9ed27e89d4aaa1db0f5fc81b83
+      internalID: -1923943839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_176
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 151
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27e07b781a64704990633e2afc36a58
+      internalID: 1353338772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_177
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 151
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879307153739ae741a3371762e504da2
+      internalID: -178862316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_178
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 151
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c8020c33c3cfb43b665e03214226b7
+      internalID: -1336729358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_179
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 151
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4541d191e9ce0da449d6eb1701255d25
+      internalID: 1954350814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_180
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 151
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe9c7fa08e756b4eadc3e9c3a4509db
+      internalID: -2022257603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_181
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 151
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75afa92c0eec3344ea22f8387f2da554
+      internalID: -1984917414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_182
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 151
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8ca578f58aec6438f396fc5912b643
+      internalID: 1933159811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_183
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 151
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4981c7a521bd94346895338595cb418f
+      internalID: 1309160545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_184
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 151
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d53063409118dd4b886d71164c2a55f
+      internalID: -1671473339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_185
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccab081ab96e3349857d95066d9991c
+      internalID: 1465432626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_186
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 120
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c63e45130943a47b8fff9e0bdd5629
+      internalID: 762280435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_187
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 120
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7f81f3a2557e648b07dbea76671606
+      internalID: 95235727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_188
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 120
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adaa8eeb350f65e4e9c7830f5e58d5d1
+      internalID: -16543406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_189
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 120
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec79d179dde4d4549a04bf6dc2def3e2
+      internalID: -1643272734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_190
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 120
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a989a21dd4c619442968a993bbb38efb
+      internalID: -1795580874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_191
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 120
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ac4fe15443d124c9ede49437850416
+      internalID: 415163580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_192
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 120
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0eb829460a3c6449a5c604ab956d30
+      internalID: -1734825437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_193
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 120
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271b65c5da364c64a85a4a955a5a78d7
+      internalID: 1292312152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_194
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 120
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550ae6888f34c8a4ab0f1e1e608ab035
+      internalID: 2101068773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_195
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 120
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1816f9dbe4acd0a4ebe0a4405da05f88
+      internalID: -1278196528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61dfde60f3082a4cb83d77e862acd77
+      internalID: -641730841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_197
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 89
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ddb37e5130683488f582b4aab37583
+      internalID: -1138876699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_198
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 89
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba12bb28660acc4bb316eced68fff1e
+      internalID: -81872839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_199
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 89
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d876d78e42c2904a953434f639f247f
+      internalID: -926751646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_200
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 89
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029b832924efe6e4fa72e5a949dcf848
+      internalID: -1480779067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_201
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 89
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034b8ff3ec78e4945bc05ba599af78e3
+      internalID: 1454723822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_202
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 89
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7157cf883da0549955ac4f52558601
+      internalID: 379190611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_203
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 89
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad75522df84b6e546ba2ef920f71d8c7
+      internalID: -1265070861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_204
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 89
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f796ecaca0038d46afb71ed72fb0d03
+      internalID: 2045281871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_205
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 89
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b15e643a118e74dba7edcaa4371b13
+      internalID: 848675345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_206
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 89
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8682fefb0140624eb6a9ab860c81740
+      internalID: 117637784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_207
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f550296349bd074290d50246766bcb1
+      internalID: 1217107917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_208
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 58
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c188ff0c02506aa42b1e87982494834f
+      internalID: -799326764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_209
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 58
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5804ae0e093ea334c8f746ff31d73a5d
+      internalID: 2075105230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_210
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 58
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feaa7eae89d3305498c49a15ffa27fc8
+      internalID: 336274305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_211
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 58
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831b38ee9723b99478a14acf66d26c81
+      internalID: -1554505660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_212
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 58
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ae7c7ba5097e149ad75d1accce6a38
+      internalID: -1791113733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_213
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 58
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e47be8c22ae7e4487fccae63bcab17
+      internalID: -1004318902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_214
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 58
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57aaba96ee5a1eb43813975a7e745ca4
+      internalID: 1733759543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_215
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 58
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5a43789c34d2843a55ed40e9a00c5f
+      internalID: -715318257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_216
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 58
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d91c1d9e2fecf49b26c4b3d7f03992
+      internalID: -1344325341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_217
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f823468d0bcc8e44bab94c14a102aee
+      internalID: 1709525923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_218
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 27
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5212d6387d79b54ebd9ee2d7bea79cf
+      internalID: 1388659690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_219
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 27
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e98ccbe6d599a4eaab6f59fe6caf93
+      internalID: -2070451716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_220
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 27
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daa661fc16a1e54e9e7489c1117bb6a
+      internalID: -446257266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_221
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 27
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf80035055e81347839cc02262d0666
+      internalID: 1969002756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_222
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 27
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2071b892647daa540a533ef6e283ec41
+      internalID: 1618630834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_223
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 27
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cf68787036f5247aadf544ff855c8f
+      internalID: 258044242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_224
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 27
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a3228b11d7ec84ab783eb73be395d3
+      internalID: 2021507011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_225
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 27
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052e7c94144c7154b8e319e7a06b1f14
+      internalID: -541576940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles_Platform_226
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 27
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3b36caca8ead14eafbf09d747e54e8
+      internalID: 1909047451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LevelObjectTiles_Platform_77: 685157464
+      LevelObjectTiles_Platform_8: -784470594
+      LevelObjectTiles_Platform_192: -1734825437
+      LevelObjectTiles_Platform_204: 2045281871
+      6: 1018678836
+      LevelObjectTiles_Platform_17: -620697357
+      LevelObjectTiles_Platform_183: 1309160545
+      LevelObjectTiles_Platform_189: -1643272734
+      LevelObjectTiles_Platform_199: -926751646
+      LevelObjectTiles_Platform_198: -81872839
+      LevelObjectTiles_Platform_81: 299310383
+      LevelObjectTiles_Platform_187: 95235727
+      LevelObjectTiles_Platform_129: 913064839
+      LevelObjectTiles_Platform_68: 1117429324
+      LevelObjectTiles_Platform_120: 704672626
+      LevelObjectTiles_Platform_163: -319107208
+      LevelObjectTiles_Platform_123: 826475993
+      LevelObjectTiles_Platform_112: 910669086
+      LevelObjectTiles_Platform_191: 415163580
+      LevelObjectTiles_Platform_117: -1573488032
+      LevelObjectTiles_Platform_101: 751903708
+      LevelObjectTiles_Platform_10: 1040194907
+      LevelObjectTiles_Platform_165: -828673726
+      LevelObjectTiles_Platform_28: 1241566273
+      LevelObjectTiles_Platform_107: -1565156302
+      LevelObjectTiles_Platform_137: 1215983651
+      LevelObjectTiles_Platform_75: -1732315664
+      LevelObjectTiles_Platform_53: -249514291
+      LevelObjectTiles_Platform_43: -1521359534
+      LevelObjectTiles_Platform_159: 1458359907
+      LevelObjectTiles_Platform_184: -1671473339
+      LevelObjectTiles_Platform_111: -1186852580
+      9: 1452535564
+      4: -1598728398
+      LevelObjectTiles_Platform_147: 550376272
+      LevelObjectTiles_Platform_31: -2064152561
+      LevelObjectTiles_Platform_36: -408157289
+      LevelObjectTiles_Platform_153: 1354289492
+      LevelObjectTiles_Platform_150: 1346921243
+      LevelObjectTiles_Platform_160: -504294153
+      LevelObjectTiles_Platform_83: -1786311399
+      LevelObjectTiles_Platform_110: 267387153
+      LevelObjectTiles_Platform_6: 648789518
+      LevelObjectTiles_Platform_32: -728923025
+      LevelObjectTiles_Platform_5: 2116073625
+      LevelObjectTiles_Platform_206: 117637784
+      LevelObjectTiles_Platform_39: -750266615
+      LevelObjectTiles_Platform_151: 77157008
+      LevelObjectTiles_Platform_108: 1307237721
+      LevelObjectTiles_Platform_73: 1191290802
+      LevelObjectTiles_Platform_169: 887887964
+      LevelObjectTiles_Platform_218: 1388659690
+      LevelObjectTiles_Platform_4: -1148544897
+      LevelObjectTiles_Platform_225: -541576940
+      LevelObjectTiles_Platform_59: 108760670
+      LevelObjectTiles_Platform_30: -591163003
+      LevelObjectTiles_Platform_127: -1149591218
+      LevelObjectTiles_Platform_144: 136204152
+      LevelObjectTiles_Platform_3: -1959850921
+      LevelObjectTiles_Platform_55: -595710724
+      LevelObjectTiles_Platform_89: -1512376337
+      LevelObjectTiles_Platform_141: 823755921
+      LevelObjectTiles_Platform_222: 1618630834
+      LevelObjectTiles_Platform_195: -1278196528
+      LevelObjectTiles_Platform_202: 379190611
+      LevelObjectTiles_Platform_216: -1344325341
+      LevelObjectTiles_Platform_102: -1777043361
+      LevelObjectTiles_Platform_99: -1746877650
+      LevelObjectTiles_Platform_48: -829639953
+      LevelObjectTiles_Platform_96: -1434301069
+      LevelObjectTiles_Platform_145: -1170843327
+      LevelObjectTiles_Platform_121: 918168947
+      LevelObjectTiles_Platform_115: -1512837153
+      LevelObjectTiles_Platform_93: -130382951
+      LevelObjectTiles_Platform_211: -1554505660
+      LevelObjectTiles_Platform_86: 344283829
+      LevelObjectTiles_Platform_177: -178862316
+      LevelObjectTiles_Platform_37: -1440015468
+      LevelObjectTiles_Platform_143: 2031284452
+      8: 345458490
+      LevelObjectTiles_Platform_74: -1742168422
+      LevelObjectTiles_Platform_156: -510955059
+      LevelObjectTiles_Platform_21: -1832722730
+      LevelObjectTiles_Platform_60: -249212308
+      LevelObjectTiles_Platform_45: -451310290
+      LevelObjectTiles_Platform_78: 1098312623
+      LevelObjectTiles_Platform_208: -799326764
+      LevelObjectTiles_Platform_167: 1737074778
+      LevelObjectTiles_Platform_226: 1909047451
+      2: 1932779174
+      LevelObjectTiles_Platform_146: -633354212
+      LevelObjectTiles_Platform_149: -893644383
+      LevelObjectTiles_Platform_98: 84678394
+      LevelObjectTiles_Platform_44: -1787387606
+      LevelObjectTiles_Platform_133: 1858992431
+      LevelObjectTiles_Platform_88: -1414094435
+      LevelObjectTiles_Platform_80: 1053370898
+      LevelObjectTiles_Platform_84: 1542436357
+      1: 253019889
+      LevelObjectTiles_Platform_64: 388492304
+      LevelObjectTiles_Platform_190: -1795580874
+      LevelObjectTiles_Platform_186: 762280435
+      LevelObjectTiles_Platform_125: 2066698303
+      LevelObjectTiles_Platform_54: -2119410230
+      LevelObjectTiles_Platform_46: -536224891
+      LevelObjectTiles_Platform_124: 66374988
+      LevelObjectTiles_Platform_40: 1273884294
+      LevelObjectTiles_Platform_148: 2021636392
+      LevelObjectTiles_Platform_152: -1207328235
+      LevelObjectTiles_Platform_56: 259954054
+      LevelObjectTiles_Platform_18: 675832302
+      LevelObjectTiles_Platform_72: 1667597034
+      LevelObjectTiles_Platform_135: 770094066
+      LevelObjectTiles_Platform_176: 1353338772
+      LevelObjectTiles_Platform_172: -1321174623
+      LevelObjectTiles_Platform_178: -1336729358
+      LevelObjectTiles_Platform_203: -1265070861
+      LevelObjectTiles_Platform_35: -772039649
+      LevelObjectTiles_Platform_154: 782968391
+      LevelObjectTiles_Platform_76: -677641369
+      5: -1206729160
+      LevelObjectTiles_Platform_20: -36131184
+      LevelObjectTiles_Platform_132: 1270519402
+      LevelObjectTiles_Platform_109: -1844703575
+      LevelObjectTiles_Platform_157: 970104915
+      LevelObjectTiles_Platform_223: 258044242
+      LevelObjectTiles_Platform_164: 2134090310
+      LevelObjectTiles_Platform_136: -2068228524
+      LevelObjectTiles_Platform_168: -2142640061
+      LevelObjectTiles_Platform_14: 1392596890
+      LevelObjectTiles_Platform_131: 1027799407
+      LevelObjectTiles_Platform_26: -1215401737
+      LevelObjectTiles_Platform_185: 1465432626
+      LevelObjectTiles_Platform_82: 2110379898
+      LevelObjectTiles_Platform_114: 287884158
+      LevelObjectTiles_Platform_196: -641730841
+      LevelObjectTiles_Platform_103: -420718332
+      LevelObjectTiles_Platform_210: 336274305
+      LevelObjectTiles_Platform_140: 249526088
+      LevelObjectTiles_Platform_130: 1059249437
+      LevelObjectTiles_Platform_209: 2075105230
+      LevelObjectTiles_Platform_161: 511554299
+      LevelObjectTiles_Platform_51: -640787699
+      LevelObjectTiles_Platform_105: 762148132
+      LevelObjectTiles_Platform_66: 1195823509
+      LevelObjectTiles_Platform_62: -492685625
+      LevelObjectTiles_Platform_126: -1418839723
+      LevelObjectTiles_Platform_67: -1336672620
+      LevelObjectTiles_Platform_57: 422730926
+      LevelObjectTiles_Platform_221: 1969002756
+      LevelObjectTiles_Platform_194: 2101068773
+      LevelObjectTiles_Platform_173: -1365031843
+      LevelObjectTiles_Platform_106: -1734508629
+      LevelObjectTiles_Platform_213: -1004318902
+      LevelObjectTiles_Platform_47: -1018203598
+      LevelObjectTiles_Platform_214: 1733759543
+      LevelObjectTiles_Platform_174: -1360709868
+      LevelObjectTiles_Platform_27: -336669628
+      LevelObjectTiles_Platform_158: 702548885
+      LevelObjectTiles_Platform_224: 2021507011
+      LevelObjectTiles_Platform_15: -1741829452
+      3: 1768001001
+      LevelObjectTiles_Platform_128: -723781329
+      LevelObjectTiles_Platform_139: -602375037
+      LevelObjectTiles_Platform_50: -1136293694
+      LevelObjectTiles_Platform_69: 1820433557
+      LevelObjectTiles_Platform_9: -603563357
+      LevelObjectTiles_Platform_90: 1369873418
+      LevelObjectTiles_Platform_91: 1204812685
+      LevelObjectTiles_Platform_19: 1226871845
+      LevelObjectTiles_Platform_212: -1791113733
+      LevelObjectTiles_Platform_182: 1933159811
+      LevelObjectTiles_Platform_63: -2057882374
+      LevelObjectTiles_Platform_118: 1694395402
+      LevelObjectTiles_Platform_138: -2065039402
+      LevelObjectTiles_Platform_7: 1349566748
+      LevelObjectTiles_Platform_16: -1987526865
+      LevelObjectTiles_Platform_49: -1199193500
+      LevelObjectTiles_Platform_87: -788272081
+      LevelObjectTiles_Platform_219: -2070451716
+      LevelObjectTiles_Platform_95: -911171466
+      LevelObjectTiles_Platform_155: -1811121539
+      LevelObjectTiles_Platform_134: 1392068361
+      LevelObjectTiles_Platform_215: -715318257
+      LevelObjectTiles_Platform_113: -669234476
+      LevelObjectTiles_Platform_166: 1400443288
+      LevelObjectTiles_Platform_193: 1292312152
+      LevelObjectTiles_Platform_170: 433511302
+      LevelObjectTiles_Platform_181: -1984917414
+      LevelObjectTiles_Platform_205: 848675345
+      LevelObjectTiles_Platform_122: 9619927
+      LevelObjectTiles_Platform_162: 1438463507
+      LevelObjectTiles_Platform_41: -938726796
+      LevelObjectTiles_Platform_100: -1146844999
+      LevelObjectTiles_Platform_119: 685137959
+      LevelObjectTiles_Platform_142: 1481734028
+      LevelObjectTiles_Platform_61: 257400316
+      LevelObjectTiles_Platform_207: 1217107917
+      LevelObjectTiles_Platform_217: 1709525923
+      LevelObjectTiles_Platform_85: 25875555
+      LevelObjectTiles_Platform_33: 6654568
+      LevelObjectTiles_Platform_179: 1954350814
+      LevelObjectTiles_Platform_201: 1454723822
+      LevelObjectTiles_Platform_197: -1138876699
+      LevelObjectTiles_Platform_116: -1164204727
+      LevelObjectTiles_Platform_25: 109497160
+      LevelObjectTiles_Platform_188: -16543406
+      LevelObjectTiles_Platform_34: -71147631
+      LevelObjectTiles_Platform_70: -1618250912
+      LevelObjectTiles_Platform_29: 446928875
+      LevelObjectTiles_Platform_180: -2022257603
+      LevelObjectTiles_Platform_52: 1717509726
+      LevelObjectTiles_Platform_38: -736421030
+      LevelObjectTiles_Platform_65: -1263765103
+      LevelObjectTiles_Platform_200: -1480779067
+      LevelObjectTiles_Platform_92: 338862304
+      LevelObjectTiles_Platform_175: -1923943839
+      LevelObjectTiles_Platform_171: -1706212394
+      7: -1253569709
+      LevelObjectTiles_Platform_220: -446257266
+      LevelObjectTiles_Platform_97: -558462389
+      LevelObjectTiles_Platform_58: 1051440564
+      LevelObjectTiles_Platform_104: 505036349
+      LevelObjectTiles_Platform_42: -1983741052
+      LevelObjectTiles_Platform_79: -305258066
+      LevelObjectTiles_Platform_94: 1332359071
+      LevelObjectTiles_Platform_71: -1667463189
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

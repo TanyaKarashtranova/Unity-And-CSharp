@@ -1,0 +1,5 @@
+@import url("unity-theme://default");
+
+@import url("/Assets/UI Toolkit/Styles/dark_purple_theme.uss");
+@import url("/Assets/UI Toolkit/Styles/tutorialButtons.uss");
+@import url("/Assets/UI Toolkit/Styles/tutorialLabels.uss");

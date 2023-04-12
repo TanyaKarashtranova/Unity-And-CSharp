@@ -1,0 +1,5112 @@
+fileFormatVersion: 2
+guid: f53cc4de5b976534f91f7ccd87cbb78f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 645
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 16, y: -16}
+        - {x: 16, y: 16}
+        - {x: -2, y: 12}
+        - {x: -14, y: 3}
+        - {x: -15, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4ba06157f453643be408304c5bf7ab
+      internalID: 636333145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 645
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb7d649c76690a4ab99ccac02967858
+      internalID: -550767823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 645
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6534927b6f86ceb46a73735a1bfe8440
+      internalID: -561617433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 645
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4713b14b4ad6543be5c79cb6bb1844
+      internalID: 219734357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 645
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c609a4749d82f4ba190d178c0a563b
+      internalID: 1148191034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 645
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a2b364e98efa948af11ddf2f2d063a
+      internalID: 785905716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 645
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5191b41adab0c2b4c9a8a4fb4b8e5e65
+      internalID: -563417884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 645
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74218d05b880a394997a5fdf6de93faf
+      internalID: 236470627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 645
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b7d50b93da39049ab7cc42826bfccc
+      internalID: -291540980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 645
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfda95671fe7a349bccd8eb54b255f1
+      internalID: 1045934984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 645
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cdd9eae0f11c4449062914ad5c41f5
+      internalID: 1222683748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 614
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2da0784f5a03514c9539e23f4b18b2e
+      internalID: -769888880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 614
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e812d8ba174deb46a429731a10dd9d8
+      internalID: -1551965623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 613
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92d4ddc10c942f4e840317a678e7b3e
+      internalID: 2117839842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 613
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506ead678efbf824888d4a85085767e3
+      internalID: -1308588935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 613
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17806a94f2b7fd14ea1fb419cb8ca7b8
+      internalID: -1024172088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 613
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffc823c63ac7a84c8e0b2533d532d49
+      internalID: -1479257535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 613
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444e5c55f29f626428f7e7ff05fa2fb6
+      internalID: -1154927063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 613
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b6cb42d5dca7f4aba4848eca7e9e9d
+      internalID: -1657371090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 613
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1f4424c8070ba41aac6a6e70f86825
+      internalID: 777778961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 613
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250090b03f514bb479789b1ff4105c63
+      internalID: -555463259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 613
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06640cace6766e4daba684c751748b1
+      internalID: 1691385316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18aa49456d79c474bbf043196df06d45
+      internalID: -150736638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fff9d807c07d7f4a88e56bcf03a5c64
+      internalID: 593496364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff70815edb7ba254186ffb4041e65aaa
+      internalID: 1354256159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a54dee6b1e91ae4aa9f72865292d3e3
+      internalID: -1670960281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bb8df5c981e6f47830c2e6b43d2d3d
+      internalID: -1675700602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6def921e9f78672479fde9c1a8227034
+      internalID: -1465357194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2d087108cfd7a4983bff7d1e0ab004
+      internalID: -1886973694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36b9323a7fc50347926cf8bad8c0d43
+      internalID: 625250831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a4e32d47b423e4c8501b5f5e1fd344
+      internalID: 1687556955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24588404a12eb26499623a9b2b15cce4
+      internalID: -1735460041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004414599ba27964caf9f4be8789807f
+      internalID: 1281861709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 549
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5af16293943b5a42ad291d3fbdf1e79
+      internalID: 1614109209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 549
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182772a237c61434aa3c3057f4f6a969
+      internalID: -261099245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 549
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f2a92945a5f324f9593a83628c8ea2
+      internalID: 1722858452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 549
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb24919ec9937741b455a2a12251281
+      internalID: 367057897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 549
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c83468d7554a44bb7f715232f3cfdc
+      internalID: -1941163126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 549
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8d8d94bea1db346b3bd58f5fc30c9d
+      internalID: 1779439607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 549
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e598f8f60cc9428499a37227de461774
+      internalID: 132537990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_40
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 549
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c2ca7eb6877484fa8ce0cfeb4e2cf0
+      internalID: -59632697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 549
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be1bc7000ef8244fb85f16af49bf28c
+      internalID: -373119786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 549
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34b9969ba448344496dfea2f5f1444b
+      internalID: -1799071102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_43
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 549
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b8e412380203b47817503cf653dab5
+      internalID: -1837491566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40125d2868939b48bffa2b0fb1560c8
+      internalID: -471529191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8e37073b5240a44a23812336a8558d
+      internalID: 701770670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8860841fc357a6d42976a02f53fd22bf
+      internalID: 1416377451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_47
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f79f0672aa25d046b296b9868d5be32
+      internalID: 784877583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e0fc6cec72205409b3beb3926de9e8
+      internalID: -1251863210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ecd6168c90fad419d6930acce7df1f
+      internalID: -1193097542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772663b3ced0145489fc8ce637a1477f
+      internalID: 293090612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_51
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1c01c3a26e1d3479d789aca401ccc1
+      internalID: -130084155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358e33d14caea1a4aa5b3d6054cb1026
+      internalID: -1223741156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_53
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95837cd65014e94dad52db178175728
+      internalID: -2092986046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9b2a16721231f40adaf879665c2370
+      internalID: 1805421829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 485
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc396a7663ec2ea4e949c82314450350
+      internalID: -161949918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 485
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053d57568d0714342a2cbd4abe7f0a6f
+      internalID: -738730263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 485
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed027b05c6a11f45be46ac99e7e6538
+      internalID: 1878944429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_58
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 485
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679c0d3a6108b234496aaae37f524101
+      internalID: -253748389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 485
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a738d6ca45ffd0b478eb7d128e43caf7
+      internalID: 1777031677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 485
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dce64664ba051049a6d7ff3bedaf443
+      internalID: -960742866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 485
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c1fa2c9d2994a4ea720acaeaffd006
+      internalID: -1832275325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 485
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f8cbb454795974ea838119fc1fd410
+      internalID: -260439658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_63
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 485
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556f9c189abe2dd4e829d032cba97c59
+      internalID: -333446110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_64
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 485
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a0799cf5a7dd34d89aa33978a5ff80
+      internalID: -763492031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 485
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b79cb8a8dd29d54fa1138e2310222ae
+      internalID: 511928299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 453
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9610f83a73ccf134187f78ea3f2821e1
+      internalID: 89484748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 453
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0caf47ed0f434ae4aad74deb38e9e2a2
+      internalID: 320617617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 453
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7333ad29218beca45b4fb32b9649c10d
+      internalID: 659560089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_69
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 453
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373de1b64fe0d2d48b92f83cf84debb5
+      internalID: -1536582020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 453
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb70c7b83163c404e87cc97dae97fa72
+      internalID: -1029452711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_71
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 453
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c237ac217e0d7489cd0bbf8b1ba17a
+      internalID: 817001835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 453
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa7e728ad494b44a93a6872b80b3e6d
+      internalID: -914381196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_73
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 453
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1e9ed077355c54796c2ac963b6a1ac
+      internalID: -663090727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_74
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 453
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d703a3a32b90f45b9fb8d5625abe60
+      internalID: -1638609232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_75
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 453
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be8323aa2d1b9b4a91153b300896016
+      internalID: 955658309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_76
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 453
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cb248611481dd4eabe30c184739d1b
+      internalID: -1687819133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 421
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a4a3f6da7591e428c9b89e0a9c44ba
+      internalID: -131475112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 421
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51c88c786c536240b6bc27bf7afc16a
+      internalID: -1206243072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 421
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578aaadf7fd7fe045b56bfb901ac5484
+      internalID: -2047481169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_80
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 421
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4726bbbaace63ff42a1bbee9325e2c5f
+      internalID: 1736730695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 421
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a551bd29a89d1ea46a573b12559c681b
+      internalID: 1196942675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 421
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc53da6ecddebd64cad061d68fbe710e
+      internalID: -1074578303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 421
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b320417c646124a955071e1a5cf17b
+      internalID: 121403411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_84
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 421
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1313aeeb645b345bc4e8cb37a03aef
+      internalID: 1967892160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_85
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 421
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08a7d6f134174c49808f1be0d21b978
+      internalID: -637499337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 421
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63470014f812784abfd3a75d002c62b
+      internalID: 129426186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_87
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 421
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f5c987ae3d5954c982c6a66c5eff13
+      internalID: -147951164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f621a1c009acae4c8ab3b61af09c889
+      internalID: -686761791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c86e9aa5bbf83245b83e30d5555b5cb
+      internalID: -1571264686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f76f65c957307b4a85028a7acb684ff
+      internalID: 865559889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940591c438174604c9c8ac9e77ce35be
+      internalID: -1074535091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12d1613ba1588d4bb34f28a1c8337f5
+      internalID: 875190369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541a4a44483e4b742b6189aace4aee18
+      internalID: -1633291461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0212a6360fb7d6647b31cec6cabeeda9
+      internalID: 436704087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_95
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c79b81366bdd34d98abd1c6cd0608a
+      internalID: -247139735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_96
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2519ed5df3d47d74fb6b5c166fc9d29c
+      internalID: 64195232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_97
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7952cf2b661bdd4f9c08c8fc2a081e2
+      internalID: -926392648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_98
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e35e15706d5de4d9570fbc8401af99
+      internalID: 90844111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113366ec658c76246baa88fe3e5c4804
+      internalID: -1759785210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88ed17070befb74893ede3a55243e15
+      internalID: 1546151843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_101
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce9af6f14e9c8049bee787d16ad4d47
+      internalID: -165381343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6475ce5dcfd6d4b4a806f8dd535b1545
+      internalID: -1361999755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a8d5897bbd70142a11afb62f0968d0
+      internalID: 147660242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_104
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2c07b142a6d424790eeb39e71f5c11
+      internalID: -321369647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377cd37b58338c4418046db9a780f7a3
+      internalID: -1977632299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_106
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1087e7251f9bee46ab325a5140227af
+      internalID: 1846866569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_107
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5be250d6b763c54c89141442cedf2f3
+      internalID: 1556170817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e132332c118f0c24dbd477d3e39b6396
+      internalID: -335112288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_109
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd32285157df944daab8d36adacfe65
+      internalID: -1015994597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 325
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0371059f8d6dc4ca70d6c76176c6f2
+      internalID: 1263526561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_111
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 325
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebaea8c594ac3fc46a19583bfefc1a8f
+      internalID: 1387335470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 325
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b979e5aa3ac373d4f9d8d6789789b66e
+      internalID: 120390862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_113
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 325
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac66193ddbafcd24ca689b963c69fc2c
+      internalID: 1195992336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 325
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89abc9d6a1979ca4baa52e760333868d
+      internalID: -315243795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_115
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 325
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c59feac5ba8114486f4e6932d09a66
+      internalID: -1443099546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 325
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac85fd3f618d654d8ebd80c1d114340
+      internalID: 46670648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_117
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 325
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a066f9777ca5ba74891f7e373330df6c
+      internalID: 1235377014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 325
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55f12f99390d0d498c5c15a88d8bc34
+      internalID: -322800131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_119
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 337
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb7f640a8954a248b46ae039b9e2ffd
+      internalID: -1156708527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_120
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 341
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db89926f3c8d7c4b97a77c5a42fa076
+      internalID: -1463373213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 293
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4777206975f9447aefd82c1a0ec371
+      internalID: 1115692326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 293
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328f7265c7018ef43addb677ec856939
+      internalID: -2088502814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_123
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 293
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3798ee881adce549982f7b8cbbba53d
+      internalID: 315106946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_124
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 293
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160fb6f40ef57aa458c85bedf7ff9af2
+      internalID: -765017021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_125
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 293
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dd07b563208c845984d331c37b923c
+      internalID: 1131120176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_126
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 293
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4de5f274fab58440be15fe3e23040b0
+      internalID: -1285717679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_127
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 293
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81276beb3dfa1c46b69a8d540a03887
+      internalID: -194146706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_128
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 293
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ff9eb484e22334e9125aabbead2790
+      internalID: 176548014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_129
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 293
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6ab4855ed58c24c814d10e65b4b0a6
+      internalID: -1387535651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_130
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 293
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c989e54557e3748b1d5c9d022a640b
+      internalID: 865077340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_131
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 307
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731ecdbf21c1df543a573944313d8e6f
+      internalID: -1783385731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92de271da1b393b46addb68e33858b57
+      internalID: 540354962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_133
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 261
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc181b2ca0b2aee4b9bd71433ea5e3ac
+      internalID: -1422885711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 261
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7b85e8ebd8ec548af924e0d430ae77
+      internalID: 201824671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_135
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 261
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa4e4dff198e7744880a8e04408bf7c
+      internalID: 388021737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_136
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 261
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e485848b5de2548a0bc22554b8f558
+      internalID: -1760475153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_137
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 261
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4905f5ef0553c12419e3457ac9a5aa98
+      internalID: -1112007859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_138
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 261
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd8955aa0e1bb244a700c8110c09643
+      internalID: 1788832863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_139
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 261
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6625052c92f3a914eb10fe85735aa311
+      internalID: -1918368362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_140
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 261
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3788254a4e0147498986e950ff6266d
+      internalID: 1605910059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_141
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 261
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857c7d966d7e49f4dbea072cc86e5091
+      internalID: 1526001251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_142
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 261
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a71bdae37c13ef49b4c8fdbd12b94ba
+      internalID: 1137275847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 229
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255a88be731d058449ae64e3da786da5
+      internalID: 275912612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_144
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 229
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82874779c5f75fc4b8e528c3b54ee0ff
+      internalID: 1186304600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 229
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685d7c785b6c1ac419cb74ab7d7ce6ab
+      internalID: -659353471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_146
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 229
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c653b25c441418a45869463393f59707
+      internalID: -193927680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_147
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 229
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a361f50b1020b6544ba529531609ab99
+      internalID: -279535386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_148
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 229
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b8b87eb7dde664d8a2ae67b87b1874
+      internalID: 714482820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 229
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9061458cafc6a514c93b64d0c38521a9
+      internalID: 818364143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_150
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 229
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a47f852e4fe0a34b97b2b614ad50bf1
+      internalID: 273075378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_151
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 229
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c85b2fa3e2a694eb0ee48b5d1ecb53
+      internalID: 129145659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_152
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 229
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f19f469e437e74481bc1d60ee8b45f
+      internalID: 1778640717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_153
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 229
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6ed43d16cf75149b4de81a5bfd9819
+      internalID: 877659102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5cf708b0367e94cb34e0464c8dedd6
+      internalID: -1815714058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_155
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 197
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c82a2e2de73404d9f846ca9059e38e
+      internalID: -2063091460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_156
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 197
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9c99d7df9fb964a9aa49eec613c646
+      internalID: -1699573230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_157
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 197
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5799d3a05a14974e9ef6b01139044a2
+      internalID: -1478418661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_158
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 197
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec81563187d33ae4298f580d6736c5ee
+      internalID: -693339742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_159
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 197
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a19b31394784c409793f0a5898ec3c
+      internalID: -351766216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_160
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 197
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa09dc59c3722f4da8f00cd26b184e7
+      internalID: 1876279058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_161
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 197
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14777e561a43b7499ff73901aaf345b
+      internalID: -908363875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_162
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 197
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066f0e5e23cae52488b87879b8690d97
+      internalID: -1025146319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_163
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994ee47b4d31f6c4393d4c85e55dd0db
+      internalID: 1606576296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_164
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8be10c8e61efb49ba5476d1559a893
+      internalID: 1880159722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_165
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6841bf89d819a8346a910d2f7b839c78
+      internalID: 969434234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_166
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a650f4f11d010498d3cbd4fcb5523d
+      internalID: 1019198433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_167
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734281a6d295adc43b0f55aa2b521008
+      internalID: 1642708171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_168
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccc6f394c1314c44a7b9a71014e1f31
+      internalID: -1253975055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_169
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c31a892270c8247bab0805d70ae382
+      internalID: -1233669619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_170
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7271a8ed2dbc4494393a6ad924d71339
+      internalID: 1095811468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_171
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2e02e2c4c4ebe43ab287d351cc6f9f
+      internalID: 479012475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_172
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96650c3ccd0db04a9a4d4e7ec65782f
+      internalID: 1787402550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_173
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1d28c34ec621440a507be3cc1424f5
+      internalID: -1853023759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1fa3be55ac62b4783da71dc5b3ff79
+      internalID: -978547898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_175
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 133
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92ac68bd0453b24585cc225d1f8f3e2
+      internalID: -1158551521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_176
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 133
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38989cbe624c90d499a9af07bdf5f684
+      internalID: -1890492961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_177
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 133
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3391ab8518ec94e94ccee1a46678e8
+      internalID: 1829444979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_178
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 133
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd0c94060ce25f49bbe4adddf78c6e1
+      internalID: -814465873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_179
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 133
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9119ecc879fef494ea0adf2560eba32b
+      internalID: 491378098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_180
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 133
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa51358f9d454d418f84157ca2ad5fd
+      internalID: 117077923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_181
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 133
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f9abbd7d23ae843901b15d62e2e987
+      internalID: 1980913787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_182
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 133
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2492ceac8a0f1aa4a85e1a8f34d5f004
+      internalID: -1550520957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_183
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 133
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113a16e6f3508d24a93668452f7911ed
+      internalID: 1516546834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_184
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 133
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ae33b0aa9a3f949af2a557b0ee38ad
+      internalID: -1209194550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_185
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e3611ff1b029b49b5b1805a73351ea
+      internalID: 2061990236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_186
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288525a4fe0dcfb46a9fdc45c2b655bb
+      internalID: -1595320505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_187
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3aead950dd5454c801eb301503c5a6
+      internalID: -1314857044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_188
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346eccb632959bd4e9d1d8d5a9edf2f4
+      internalID: 2048072952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_189
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74029d10d841dad4c95bc32e43452160
+      internalID: 1189777966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_190
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe935ecfd23fa994392407ee212856fc
+      internalID: -349844493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_191
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c70d30c42ee5c4da5430267fa34f93
+      internalID: -2003047767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_192
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95802e9da007a0c4bbfbd2fff4e3e401
+      internalID: -1921972009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_193
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c112ed99074c84eaff1a4c91af46a6
+      internalID: 2047210499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_194
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6b6674fa737154dac191b34d436d75
+      internalID: 680762989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_195
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f794b66e0522844d82a87590fab11d5
+      internalID: -1454185706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101c740d4b563d54cb2879e4d8777629
+      internalID: 1213326856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_197
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 69
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560b890681e7c4b449131fe9ce4c5214
+      internalID: -719884079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_198
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 69
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7793096a56c9e4198f02b1d201db6d
+      internalID: -1128630980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_199
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 69
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cc62d03b0ecf74e9698b7dcde4d2b0
+      internalID: -1043695229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_200
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 69
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d411366d7849594daaff2263217a492
+      internalID: 1357151223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_201
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 69
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f463fe411d3564c8d136bfdb7af299
+      internalID: -1114434501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_202
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 69
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab69afc0b2856547a57dce05d367363
+      internalID: 1936616989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_203
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 69
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e362ecabb5b116498c54bdd680c422b
+      internalID: -959062888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_204
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 69
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557f92bbd7051034e937456159575e70
+      internalID: 1798901295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_205
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 69
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41693d1bc0f8e7d4888dc01cca86b649
+      internalID: -640468532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_206
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 69
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe77337b3ab386469e48f6301422da6
+      internalID: -1605139598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_207
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3158571b023131148ae2ce2a5a203eb6
+      internalID: 1000191554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_208
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 37
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0e7657e0cb39f4bbc97864344c40b0
+      internalID: 803059469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_209
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 37
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c6e5a8ca87fa94e813f84c9908a64d
+      internalID: -453162335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_210
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 37
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254c015d6c2b8c444a6caa621462330e
+      internalID: 1989538361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_211
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 37
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07127cf7c39930b48954bfa44e8826e2
+      internalID: 370378064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_212
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 37
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c192b6331f7430479d90cdd460426aa
+      internalID: 477192765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_213
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 37
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1292b46c9a929f846a636cc4689d251c
+      internalID: -765393044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_214
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 37
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3491c6e2000b2469ab5e6e8f391281
+      internalID: 1282844445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_215
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 37
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d65117ac0e70c449d9b5af61f50d8d
+      internalID: 198821137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_216
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 37
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc608d19101ae34c9aaa4b69cd3eee3
+      internalID: -1865067364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_217
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf3ee7f575299d478bb8d1bb75dc241
+      internalID: 1696810225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_218
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 5
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e1aa0a348502d4a887783f07e2bbae
+      internalID: -1772390715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_219
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 5
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f8280afda57954cbb0240704b516f9
+      internalID: 1033794053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_220
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 5
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470505d496a35994f822b6540b535347
+      internalID: -2035825058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_221
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 5
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7c678e516adda4687c3ea660e3d8ac
+      internalID: 576511658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_222
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 5
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99eb072020e59643bedc07d8ee44d01
+      internalID: 1178299560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_223
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 5
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1779f8802b5f94ba33b58b487a19d7
+      internalID: -1209313788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_224
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 5
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a98958eb29ac434cbd906aa571d2207
+      internalID: -1734918804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelObjectTiles-WithoutBackground_225
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 5
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ce3d91813259e4c9421a8348898c09
+      internalID: 673472042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LevelObjectTiles-WithoutBackground_58: -253748389
+      LevelObjectTiles-WithoutBackground_43: -1837491566
+      LevelObjectTiles-WithoutBackground_52: -1223741156
+      LevelObjectTiles-WithoutBackground_27: -1465357194
+      LevelObjectTiles-WithoutBackground_118: -322800131
+      LevelObjectTiles-WithoutBackground_106: 1846866569
+      LevelObjectTiles-WithoutBackground_186: -1595320505
+      LevelObjectTiles-WithoutBackground_152: 1778640717
+      LevelObjectTiles-WithoutBackground_221: 576511658
+      LevelObjectTiles-WithoutBackground_121: 1115692326
+      LevelObjectTiles-WithoutBackground_135: 388021737
+      LevelObjectTiles-WithoutBackground_120: -1463373213
+      LevelObjectTiles-WithoutBackground_215: 198821137
+      LevelObjectTiles-WithoutBackground_37: -1941163126
+      LevelObjectTiles-WithoutBackground_149: 818364143
+      LevelObjectTiles-WithoutBackground_94: 436704087
+      LevelObjectTiles-WithoutBackground_198: -1128630980
+      LevelObjectTiles-WithoutBackground_194: 680762989
+      LevelObjectTiles-WithoutBackground_201: -1114434501
+      LevelObjectTiles-WithoutBackground_142: 1137275847
+      LevelObjectTiles-WithoutBackground_190: -349844493
+      LevelObjectTiles-WithoutBackground_127: -194146706
+      LevelObjectTiles-WithoutBackground_50: 293090612
+      LevelObjectTiles-WithoutBackground_95: -247139735
+      LevelObjectTiles-WithoutBackground_3: 219734357
+      LevelObjectTiles-WithoutBackground_31: -1735460041
+      LevelObjectTiles-WithoutBackground_49: -1193097542
+      LevelObjectTiles-WithoutBackground_6: -563417884
+      LevelObjectTiles-WithoutBackground_78: -1206243072
+      LevelObjectTiles-WithoutBackground_62: -260439658
+      LevelObjectTiles-WithoutBackground_74: -1638609232
+      LevelObjectTiles-WithoutBackground_128: 176548014
+      LevelObjectTiles-WithoutBackground_202: 1936616989
+      LevelObjectTiles-WithoutBackground_116: 46670648
+      LevelObjectTiles-WithoutBackground_2: -561617433
+      LevelObjectTiles-WithoutBackground_55: -161949918
+      LevelObjectTiles-WithoutBackground_172: 1787402550
+      LevelObjectTiles-WithoutBackground_35: 1722858452
+      LevelObjectTiles-WithoutBackground_75: 955658309
+      LevelObjectTiles-WithoutBackground_85: -637499337
+      LevelObjectTiles-WithoutBackground_115: -1443099546
+      LevelObjectTiles-WithoutBackground_123: 315106946
+      LevelObjectTiles-WithoutBackground_218: -1772390715
+      LevelObjectTiles-WithoutBackground_84: 1967892160
+      LevelObjectTiles-WithoutBackground_88: -686761791
+      LevelObjectTiles-WithoutBackground_10: 1222683748
+      LevelObjectTiles-WithoutBackground_158: -693339742
+      LevelObjectTiles-WithoutBackground_204: 1798901295
+      LevelObjectTiles-WithoutBackground_182: -1550520957
+      LevelObjectTiles-WithoutBackground_24: 1354256159
+      LevelObjectTiles-WithoutBackground_137: -1112007859
+      LevelObjectTiles-WithoutBackground_225: 673472042
+      LevelObjectTiles-WithoutBackground_126: -1285717679
+      LevelObjectTiles-WithoutBackground_148: 714482820
+      LevelObjectTiles-WithoutBackground_69: -1536582020
+      LevelObjectTiles-WithoutBackground_34: -261099245
+      LevelObjectTiles-WithoutBackground_157: -1478418661
+      LevelObjectTiles-WithoutBackground_196: 1213326856
+      LevelObjectTiles-WithoutBackground_107: 1556170817
+      LevelObjectTiles-WithoutBackground_19: 777778961
+      LevelObjectTiles-WithoutBackground_103: 147660242
+      LevelObjectTiles-WithoutBackground_214: 1282844445
+      LevelObjectTiles-WithoutBackground_170: 1095811468
+      LevelObjectTiles-WithoutBackground_136: -1760475153
+      LevelObjectTiles-WithoutBackground_57: 1878944429
+      LevelObjectTiles-WithoutBackground_98: 90844111
+      LevelObjectTiles-WithoutBackground_217: 1696810225
+      LevelObjectTiles-WithoutBackground_188: 2048072952
+      LevelObjectTiles-WithoutBackground_66: 89484748
+      LevelObjectTiles-WithoutBackground_209: -453162335
+      LevelObjectTiles-WithoutBackground_163: 1606576296
+      LevelObjectTiles-WithoutBackground_21: 1691385316
+      LevelObjectTiles-WithoutBackground_4: 1148191034
+      LevelObjectTiles-WithoutBackground_87: -147951164
+      LevelObjectTiles-WithoutBackground_130: 865077340
+      LevelObjectTiles-WithoutBackground_161: -908363875
+      LevelObjectTiles-WithoutBackground_60: -960742866
+      LevelObjectTiles-WithoutBackground_73: -663090727
+      LevelObjectTiles-WithoutBackground_133: -1422885711
+      LevelObjectTiles-WithoutBackground_72: -914381196
+      LevelObjectTiles-WithoutBackground_86: 129426186
+      LevelObjectTiles-WithoutBackground_210: 1989538361
+      LevelObjectTiles-WithoutBackground_177: 1829444979
+      LevelObjectTiles-WithoutBackground_155: -2063091460
+      LevelObjectTiles-WithoutBackground_102: -1361999755
+      LevelObjectTiles-WithoutBackground_124: -765017021
+      LevelObjectTiles-WithoutBackground_185: 2061990236
+      LevelObjectTiles-WithoutBackground_222: 1178299560
+      LevelObjectTiles-WithoutBackground_101: -165381343
+      LevelObjectTiles-WithoutBackground_48: -1251863210
+      LevelObjectTiles-WithoutBackground_16: -1479257535
+      LevelObjectTiles-WithoutBackground_169: -1233669619
+      LevelObjectTiles-WithoutBackground_183: 1516546834
+      LevelObjectTiles-WithoutBackground_26: -1675700602
+      LevelObjectTiles-WithoutBackground_219: 1033794053
+      LevelObjectTiles-WithoutBackground_54: 1805421829
+      LevelObjectTiles-WithoutBackground_212: 477192765
+      LevelObjectTiles-WithoutBackground_197: -719884079
+      LevelObjectTiles-WithoutBackground_216: -1865067364
+      LevelObjectTiles-WithoutBackground_80: 1736730695
+      LevelObjectTiles-WithoutBackground_160: 1876279058
+      LevelObjectTiles-WithoutBackground_208: 803059469
+      LevelObjectTiles-WithoutBackground_156: -1699573230
+      LevelObjectTiles-WithoutBackground_17: -1154927063
+      LevelObjectTiles-WithoutBackground_205: -640468532
+      LevelObjectTiles-WithoutBackground_150: 273075378
+      LevelObjectTiles-WithoutBackground_151: 129145659
+      LevelObjectTiles-WithoutBackground_8: -291540980
+      LevelObjectTiles-WithoutBackground_5: 785905716
+      LevelObjectTiles-WithoutBackground_11: -769888880
+      LevelObjectTiles-WithoutBackground_154: -1815714058
+      LevelObjectTiles-WithoutBackground_224: -1734918804
+      LevelObjectTiles-WithoutBackground_164: 1880159722
+      LevelObjectTiles-WithoutBackground_9: 1045934984
+      LevelObjectTiles-WithoutBackground_64: -763492031
+      LevelObjectTiles-WithoutBackground_223: -1209313788
+      LevelObjectTiles-WithoutBackground_89: -1571264686
+      LevelObjectTiles-WithoutBackground_178: -814465873
+      LevelObjectTiles-WithoutBackground_162: -1025146319
+      LevelObjectTiles-WithoutBackground_65: 511928299
+      LevelObjectTiles-WithoutBackground_140: 1605910059
+      LevelObjectTiles-WithoutBackground_38: 1779439607
+      LevelObjectTiles-WithoutBackground_79: -2047481169
+      LevelObjectTiles-WithoutBackground_108: -335112288
+      LevelObjectTiles-WithoutBackground_0: 636333145
+      LevelObjectTiles-WithoutBackground_59: 1777031677
+      LevelObjectTiles-WithoutBackground_138: 1788832863
+      LevelObjectTiles-WithoutBackground_1: -550767823
+      LevelObjectTiles-WithoutBackground_141: 1526001251
+      LevelObjectTiles-WithoutBackground_15: -1024172088
+      LevelObjectTiles-WithoutBackground_33: 1614109209
+      LevelObjectTiles-WithoutBackground_99: -1759785210
+      LevelObjectTiles-WithoutBackground_97: -926392648
+      LevelObjectTiles-WithoutBackground_213: -765393044
+      LevelObjectTiles-WithoutBackground_153: 877659102
+      LevelObjectTiles-WithoutBackground_211: 370378064
+      LevelObjectTiles-WithoutBackground_112: 120390862
+      LevelObjectTiles-WithoutBackground_199: -1043695229
+      LevelObjectTiles-WithoutBackground_23: 593496364
+      LevelObjectTiles-WithoutBackground_90: 865559889
+      LevelObjectTiles-WithoutBackground_171: 479012475
+      LevelObjectTiles-WithoutBackground_25: -1670960281
+      LevelObjectTiles-WithoutBackground_139: -1918368362
+      LevelObjectTiles-WithoutBackground_114: -315243795
+      LevelObjectTiles-WithoutBackground_44: -471529191
+      LevelObjectTiles-WithoutBackground_96: 64195232
+      LevelObjectTiles-WithoutBackground_147: -279535386
+      LevelObjectTiles-WithoutBackground_91: -1074535091
+      LevelObjectTiles-WithoutBackground_39: 132537990
+      LevelObjectTiles-WithoutBackground_47: 784877583
+      LevelObjectTiles-WithoutBackground_100: 1546151843
+      LevelObjectTiles-WithoutBackground_42: -1799071102
+      LevelObjectTiles-WithoutBackground_81: 1196942675
+      LevelObjectTiles-WithoutBackground_173: -1853023759
+      LevelObjectTiles-WithoutBackground_111: 1387335470
+      LevelObjectTiles-WithoutBackground_189: 1189777966
+      LevelObjectTiles-WithoutBackground_180: 117077923
+      LevelObjectTiles-WithoutBackground_195: -1454185706
+      LevelObjectTiles-WithoutBackground_41: -373119786
+      LevelObjectTiles-WithoutBackground_13: 2117839842
+      LevelObjectTiles-WithoutBackground_40: -59632697
+      LevelObjectTiles-WithoutBackground_67: 320617617
+      LevelObjectTiles-WithoutBackground_30: 1687556955
+      LevelObjectTiles-WithoutBackground_132: 540354962
+      LevelObjectTiles-WithoutBackground_51: -130084155
+      LevelObjectTiles-WithoutBackground_105: -1977632299
+      LevelObjectTiles-WithoutBackground_179: 491378098
+      LevelObjectTiles-WithoutBackground_193: 2047210499
+      LevelObjectTiles-WithoutBackground_29: 625250831
+      LevelObjectTiles-WithoutBackground_181: 1980913787
+      LevelObjectTiles-WithoutBackground_61: -1832275325
+      LevelObjectTiles-WithoutBackground_68: 659560089
+      LevelObjectTiles-WithoutBackground_109: -1015994597
+      LevelObjectTiles-WithoutBackground_53: -2092986046
+      LevelObjectTiles-WithoutBackground_46: 1416377451
+      LevelObjectTiles-WithoutBackground_220: -2035825058
+      LevelObjectTiles-WithoutBackground_63: -333446110
+      LevelObjectTiles-WithoutBackground_203: -959062888
+      LevelObjectTiles-WithoutBackground_184: -1209194550
+      LevelObjectTiles-WithoutBackground_76: -1687819133
+      LevelObjectTiles-WithoutBackground_82: -1074578303
+      LevelObjectTiles-WithoutBackground_134: 201824671
+      LevelObjectTiles-WithoutBackground_28: -1886973694
+      LevelObjectTiles-WithoutBackground_200: 1357151223
+      LevelObjectTiles-WithoutBackground_159: -351766216
+      LevelObjectTiles-WithoutBackground_110: 1263526561
+      LevelObjectTiles-WithoutBackground_14: -1308588935
+      LevelObjectTiles-WithoutBackground_206: -1605139598
+      LevelObjectTiles-WithoutBackground_117: 1235377014
+      LevelObjectTiles-WithoutBackground_207: 1000191554
+      LevelObjectTiles-WithoutBackground_122: -2088502814
+      LevelObjectTiles-WithoutBackground_143: 275912612
+      LevelObjectTiles-WithoutBackground_145: -659353471
+      LevelObjectTiles-WithoutBackground_77: -131475112
+      LevelObjectTiles-WithoutBackground_131: -1783385731
+      LevelObjectTiles-WithoutBackground_167: 1642708171
+      LevelObjectTiles-WithoutBackground_113: 1195992336
+      LevelObjectTiles-WithoutBackground_104: -321369647
+      LevelObjectTiles-WithoutBackground_83: 121403411
+      LevelObjectTiles-WithoutBackground_191: -2003047767
+      LevelObjectTiles-WithoutBackground_7: 236470627
+      LevelObjectTiles-WithoutBackground_144: 1186304600
+      LevelObjectTiles-WithoutBackground_71: 817001835
+      LevelObjectTiles-WithoutBackground_12: -1551965623
+      LevelObjectTiles-WithoutBackground_56: -738730263
+      LevelObjectTiles-WithoutBackground_18: -1657371090
+      LevelObjectTiles-WithoutBackground_187: -1314857044
+      LevelObjectTiles-WithoutBackground_174: -978547898
+      LevelObjectTiles-WithoutBackground_22: -150736638
+      LevelObjectTiles-WithoutBackground_92: 875190369
+      LevelObjectTiles-WithoutBackground_176: -1890492961
+      LevelObjectTiles-WithoutBackground_192: -1921972009
+      LevelObjectTiles-WithoutBackground_119: -1156708527
+      LevelObjectTiles-WithoutBackground_129: -1387535651
+      LevelObjectTiles-WithoutBackground_125: 1131120176
+      LevelObjectTiles-WithoutBackground_32: 1281861709
+      LevelObjectTiles-WithoutBackground_36: 367057897
+      LevelObjectTiles-WithoutBackground_70: -1029452711
+      LevelObjectTiles-WithoutBackground_20: -555463259
+      LevelObjectTiles-WithoutBackground_45: 701770670
+      LevelObjectTiles-WithoutBackground_93: -1633291461
+      LevelObjectTiles-WithoutBackground_175: -1158551521
+      LevelObjectTiles-WithoutBackground_165: 969434234
+      LevelObjectTiles-WithoutBackground_146: -193927680
+      LevelObjectTiles-WithoutBackground_166: 1019198433
+      LevelObjectTiles-WithoutBackground_168: -1253975055
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

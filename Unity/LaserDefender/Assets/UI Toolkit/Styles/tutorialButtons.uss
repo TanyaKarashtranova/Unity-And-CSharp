@@ -1,0 +1,38 @@
+.button-main-title {
+    -unity-font: url('project://database/Assets/TextMesh%20Pro/Fonts/Space%20Game.otf?fileID=12800000&guid=742267607123de941ab2c6d6a224aac6&type=3#Space Game');
+    -unity-font-style: bold-and-italic;
+    font-size: 70px;
+    -unity-text-align: middle-center;
+    background-color: rgb(0, 0, 0);
+    border-left-color: rgb(130, 212, 241);
+    border-right-color: rgb(130, 212, 241);
+    border-top-color: rgb(130, 212, 241);
+    border-bottom-color: rgb(130, 212, 241);
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-left-width: 3px;
+    border-right-width: 3px;
+    border-top-width: 3px;
+    border-bottom-width: 3px;
+    margin-left: 75px;
+    margin-right: 75px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    height: 85px;
+    color: rgb(206, 141, 248);
+    -unity-background-image-tint-color: rgba(255, 255, 255, 255);
+    text-shadow: 3px 3px 0 rgba(41, 14, 195, 255);
+}
+
+.button-main-title:active {
+    background-color: rgb(217, 112, 255);
+    -unity-background-image-tint-color: rgb(37, 24, 46);
+    color: rgb(0, 0, 0);
+    font-size: 70px;
+}
